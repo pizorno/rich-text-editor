@@ -1,2 +1,7 @@
-# rich-text-editor
-Rich Text Editor
+### Rich Text Editor
+I am gonna build a online text editor with javascript. this text editor is similar to microsoft office word❗️
+
+# Screenshot
+Here we have project screenshot :
+
+![screenshot](screenshot.jpg)
