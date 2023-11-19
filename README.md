@@ -4,4 +4,4 @@ I am gonna build a online text editor with javascript. this text editor is simil
 # Screenshot
 Here have project screenshot :
 
-![screenshot](screenshot.jpg)
+![screenshot](screenshot.jpeg)
